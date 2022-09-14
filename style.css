@@ -1,0 +1,28 @@
+/*
+ Theme Name:   22 child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  22-child
+ Author:       Hassan ch
+ Author URI:   https://github.com/hassanch.1
+ Template:     twentytwentytwo
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+:root{
+    --yellow:#f3ca20;
+    --black:#000000;
+
+}
+
+
+h1{
+    font-size: 30px;
+
+}
+
+    
+
+
