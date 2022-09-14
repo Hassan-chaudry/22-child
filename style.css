@@ -11,14 +11,12 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyfifteenchild
 */
-:root{
-    --yellow:#f3ca20;
-    --black:#000000;
-
+:root {
+    --color-yellow:#f3ca20;
+    --color-black:#000000;
 }
 
-
-h1{
+h1 {
     font-size: 30px;
 
 }
